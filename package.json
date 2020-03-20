@@ -1,9 +1,10 @@
 {
   "name": "covid-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "0xflotus"
   },
+  "bin": "./index.js",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
